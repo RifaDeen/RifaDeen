@@ -60,6 +60,9 @@
 
   <!-- C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+
+  <!-- Mediapipe -->
+  <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="mediapipe" width="40" height="40"/>
   
   <!-- Dart -->
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
@@ -98,6 +101,10 @@
   
   <!-- IntelliJ IDEA -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+
+  <!-- Pycharm -->
+  <img src="https://c0.klipartz.com/pngpicture/211/917/sticker-png-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle-text-logo-computer-program-thumbnail.png" alt="IntelliJ IDEA" width="40" height="40"/>
+
   
   <!-- NetBeans -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/>
